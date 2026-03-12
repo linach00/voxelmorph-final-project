@@ -260,7 +260,7 @@ pip install --upgrade -r requirements.txt
 
 ## References
 
-- **VoxelMorph Paper:** [Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration](https://arxiv.org/abs/1805.04604)
+- **VoxelMorph Paper:** [VoxelMorph: A Learning Framework for Deformable Medical Image Registration](https://arxiv.org/abs/1809.05231)
 - **TensorFlow Documentation:** https://www.tensorflow.org/
 - **NIfTI Format:** [Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/)
 
@@ -274,7 +274,7 @@ This project is provided for research and educational purposes.
 
 ## Author
 
-**Project:** BMEN 4460 Final Project  
+**Authors:** Lina Cheung, Giuliana Fagre Guerriero, Vivian Lu
 **Institution:** Columbia University Biomedical Engineering
 
 ---
